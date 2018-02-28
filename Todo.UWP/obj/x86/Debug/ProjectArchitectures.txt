@@ -1,0 +1,2 @@
+C:\Users\hchan\source\repos\Todo\Todo.UWP\Todo.UWP.csproj;x86
+C:\Users\hchan\source\repos\Todo\Todo\Todo.csproj;neutral
