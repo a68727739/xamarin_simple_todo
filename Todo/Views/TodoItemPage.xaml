@@ -5,7 +5,7 @@
 		<Entry Text="{Binding Name}" />
 		<Label Text="訊息" />
 		<Entry Text="{Binding Notes}" />
-		<Label Text="工作" />
+		<Label Text="是否完成" />
 		<Switch IsToggled="{Binding Done}" />
 		<Button Text="儲存" Clicked="OnSaveClicked" />
 		<Button Text="刪除" Clicked="OnDeleteClicked" />

@@ -27416,12 +27416,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\hchan\\source\\repos\\Todo\\Todo.UWP\\Todo.UWP.csproj",
+      "projectUniqueName": "D:\\project\\xamarin\\xamarin_simple_todo\\Todo.UWP\\Todo.UWP.csproj",
       "projectName": "Todo.UWP",
-      "projectPath": "C:\\Users\\hchan\\source\\repos\\Todo\\Todo.UWP\\Todo.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\hchan\\source\\repos\\Todo\\Todo.UWP\\project.json",
+      "projectPath": "D:\\project\\xamarin\\xamarin_simple_todo\\Todo.UWP\\Todo.UWP.csproj",
+      "projectJsonPath": "D:\\project\\xamarin\\xamarin_simple_todo\\Todo.UWP\\project.json",
       "packagesPath": "C:\\Users\\hchan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hchan\\source\\repos\\Todo\\Todo.UWP\\obj\\",
+      "outputPath": "D:\\project\\xamarin\\xamarin_simple_todo\\Todo.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
@@ -27438,8 +27438,8 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "C:\\Users\\hchan\\source\\repos\\Todo\\Todo\\Todo.csproj": {
-              "projectPath": "C:\\Users\\hchan\\source\\repos\\Todo\\Todo\\Todo.csproj"
+            "D:\\project\\xamarin\\xamarin_simple_todo\\Todo\\Todo.csproj": {
+              "projectPath": "D:\\project\\xamarin\\xamarin_simple_todo\\Todo\\Todo.csproj"
             }
           }
         }
